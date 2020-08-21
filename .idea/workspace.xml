@@ -19,37 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cd7bfce-9837-4e19-8b16-7d3514807416" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/com.zeroc.IceBuilderPlugin.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Account.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/CreditCardAccount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DriverTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bank/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bank/BankDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bank/CreditAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Bank/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Bank/CreditAccountTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bank/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bank/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bank/.settings/com.zeroc.IceBuilderPlugin.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bank/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bank/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bank/bin/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bank/bin/CreditCardAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bank/bin/DriverTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bank/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bank/src/main/java/Bank/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bank/src/main/java/Bank/BankDriver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bank/src/main/java/Bank/CreditAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bank/src/test/java/Bank/AccountTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bank/src/test/java/Bank/CreditAccountTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="4cd7bfce-9837-4e19-8b16-7d3514807416" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597986570857</updated>
-      <workItem from="1597986571935" duration="111000" />
+      <workItem from="1597986571935" duration="422000" />
     </task>
     <servers />
   </component>
